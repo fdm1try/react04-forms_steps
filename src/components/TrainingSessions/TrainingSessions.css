@@ -1,0 +1,21 @@
+.sessions {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: white;
+  min-height: 100vh;
+  font-size: 18px;
+  color: black;
+}
+
+.sessions-list {
+  width: 100%;
+}
+
+.button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  outline: none;
+}
